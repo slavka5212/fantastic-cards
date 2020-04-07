@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fantastic-cards/static/css/main.d5c347f4.chunk.css",
+    "main.js": "/fantastic-cards/static/js/main.260ca7f0.chunk.js",
+    "main.js.map": "/fantastic-cards/static/js/main.260ca7f0.chunk.js.map",
+    "runtime-main.js": "/fantastic-cards/static/js/runtime-main.8bb2e161.js",
+    "runtime-main.js.map": "/fantastic-cards/static/js/runtime-main.8bb2e161.js.map",
+    "static/js/2.31d64e6f.chunk.js": "/fantastic-cards/static/js/2.31d64e6f.chunk.js",
+    "static/js/2.31d64e6f.chunk.js.map": "/fantastic-cards/static/js/2.31d64e6f.chunk.js.map",
+    "index.html": "/fantastic-cards/index.html",
+    "precache-manifest.ae1277ca601160b670e9d728b08edcfd.js": "/fantastic-cards/precache-manifest.ae1277ca601160b670e9d728b08edcfd.js",
+    "service-worker.js": "/fantastic-cards/service-worker.js",
+    "static/css/main.d5c347f4.chunk.css.map": "/fantastic-cards/static/css/main.d5c347f4.chunk.css.map",
+    "static/js/2.31d64e6f.chunk.js.LICENSE.txt": "/fantastic-cards/static/js/2.31d64e6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bb2e161.js",
+    "static/js/2.31d64e6f.chunk.js",
+    "static/css/main.d5c347f4.chunk.css",
+    "static/js/main.260ca7f0.chunk.js"
+  ]
+}
