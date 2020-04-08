@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bd40d9c3030ce76b557387e8c38d859",
+    "revision": "8e89908b8a1f8a0a10f14ab8a34098fc",
     "url": "/fantastic-cards/index.html"
   },
   {
